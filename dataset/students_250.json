@@ -1,0 +1,4002 @@
+[
+  {
+    "studentId": "STU0001",
+    "name": "Student_1",
+    "department": "Cyber Security",
+    "semester": 2,
+    "credits": 62,
+    "cgpa": "9.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      205,
+      202,
+      304,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0002",
+    "name": "Student_2",
+    "department": "Cyber Security",
+    "semester": 3,
+    "credits": 86,
+    "cgpa": "6.89",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      303,
+      203,
+      101,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0003",
+    "name": "Student_3",
+    "department": "Data Science",
+    "semester": 5,
+    "credits": 43,
+    "cgpa": "6.72",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      202,
+      103,
+      303,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0004",
+    "name": "Student_4",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 95,
+    "cgpa": "8.77",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      103,
+      203,
+      304,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0005",
+    "name": "Student_5",
+    "department": "Data Science",
+    "semester": 2,
+    "credits": 65,
+    "cgpa": "6.47",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      102,
+      204,
+      101,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0006",
+    "name": "Student_6",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 58,
+    "cgpa": "7.85",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      102,
+      103,
+      203,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0007",
+    "name": "Student_7",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 48,
+    "cgpa": "9.47",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      101,
+      302,
+      105,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0008",
+    "name": "Student_8",
+    "department": "Artificial Intelligence",
+    "semester": 5,
+    "credits": 64,
+    "cgpa": "7.41",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      102,
+      205,
+      301,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0009",
+    "name": "Student_9",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 116,
+    "cgpa": "6.64",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      305,
+      304,
+      104,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0010",
+    "name": "Student_10",
+    "department": "Artificial Intelligence",
+    "semester": 5,
+    "credits": 61,
+    "cgpa": "9.58",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      301,
+      304,
+      105,
+      204,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0011",
+    "name": "Student_11",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 115,
+    "cgpa": "7.40",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      102,
+      202,
+      204,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0012",
+    "name": "Student_12",
+    "department": "Computer Science",
+    "semester": 3,
+    "credits": 100,
+    "cgpa": "8.49",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      102,
+      105,
+      203,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0013",
+    "name": "Student_13",
+    "department": "Computer Science",
+    "semester": 5,
+    "credits": 77,
+    "cgpa": "8.72",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      304,
+      204,
+      102,
+      301,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0014",
+    "name": "Student_14",
+    "department": "Data Science",
+    "semester": 2,
+    "credits": 51,
+    "cgpa": "7.52",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      204,
+      202,
+      105,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0015",
+    "name": "Student_15",
+    "department": "Information Technology",
+    "semester": 4,
+    "credits": 98,
+    "cgpa": "7.78",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      105,
+      302,
+      201,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0016",
+    "name": "Student_16",
+    "department": "Data Science",
+    "semester": 7,
+    "credits": 110,
+    "cgpa": "7.33",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      205,
+      202,
+      203,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0017",
+    "name": "Student_17",
+    "department": "Data Science",
+    "semester": 2,
+    "credits": 111,
+    "cgpa": "7.97",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      202,
+      302,
+      303,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0018",
+    "name": "Student_18",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 83,
+    "cgpa": "8.55",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      102,
+      203,
+      104,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0019",
+    "name": "Student_19",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 78,
+    "cgpa": "8.81",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      102,
+      104,
+      304,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0020",
+    "name": "Student_20",
+    "department": "Information Technology",
+    "semester": 4,
+    "credits": 91,
+    "cgpa": "6.70",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      201,
+      301,
+      204,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0021",
+    "name": "Student_21",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 92,
+    "cgpa": "8.30",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      103,
+      204,
+      305,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0022",
+    "name": "Student_22",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 95,
+    "cgpa": "7.34",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      103,
+      305,
+      205,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0023",
+    "name": "Student_23",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 102,
+    "cgpa": "7.08",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      105,
+      104,
+      204,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0024",
+    "name": "Student_24",
+    "department": "Computer Science",
+    "semester": 3,
+    "credits": 45,
+    "cgpa": "6.53",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      301,
+      303,
+      302,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0025",
+    "name": "Student_25",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 78,
+    "cgpa": "6.69",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      101,
+      202,
+      305,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0026",
+    "name": "Student_26",
+    "department": "Data Science",
+    "semester": 2,
+    "credits": 41,
+    "cgpa": "6.66",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      302,
+      104,
+      301,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0027",
+    "name": "Student_27",
+    "department": "Information Technology",
+    "semester": 6,
+    "credits": 42,
+    "cgpa": "7.72",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      201,
+      105,
+      102,
+      104,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0028",
+    "name": "Student_28",
+    "department": "Cyber Security",
+    "semester": 1,
+    "credits": 107,
+    "cgpa": "8.74",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      101,
+      203,
+      303,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0029",
+    "name": "Student_29",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 85,
+    "cgpa": "7.20",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      303,
+      104,
+      201,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0030",
+    "name": "Student_30",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 80,
+    "cgpa": "7.33",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      101,
+      303,
+      102,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0031",
+    "name": "Student_31",
+    "department": "Cyber Security",
+    "semester": 4,
+    "credits": 91,
+    "cgpa": "7.14",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      201,
+      304,
+      105,
+      103,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0032",
+    "name": "Student_32",
+    "department": "Information Technology",
+    "semester": 3,
+    "credits": 54,
+    "cgpa": "8.40",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      305,
+      203,
+      304,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0033",
+    "name": "Student_33",
+    "department": "Cyber Security",
+    "semester": 2,
+    "credits": 85,
+    "cgpa": "9.83",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      103,
+      205,
+      102,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0034",
+    "name": "Student_34",
+    "department": "Information Technology",
+    "semester": 7,
+    "credits": 62,
+    "cgpa": "8.47",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      205,
+      301,
+      305,
+      202,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0035",
+    "name": "Student_35",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 83,
+    "cgpa": "8.23",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      301,
+      204,
+      303,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0036",
+    "name": "Student_36",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 85,
+    "cgpa": "6.59",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      305,
+      301,
+      104,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0037",
+    "name": "Student_37",
+    "department": "Information Technology",
+    "semester": 7,
+    "credits": 102,
+    "cgpa": "7.78",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      104,
+      204,
+      101,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0038",
+    "name": "Student_38",
+    "department": "Cyber Security",
+    "semester": 4,
+    "credits": 40,
+    "cgpa": "7.06",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      302,
+      305,
+      102,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0039",
+    "name": "Student_39",
+    "department": "Data Science",
+    "semester": 4,
+    "credits": 76,
+    "cgpa": "8.30",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      303,
+      102,
+      104,
+      301,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0040",
+    "name": "Student_40",
+    "department": "Information Technology",
+    "semester": 3,
+    "credits": 52,
+    "cgpa": "6.74",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      304,
+      103,
+      305,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0041",
+    "name": "Student_41",
+    "department": "Data Science",
+    "semester": 5,
+    "credits": 56,
+    "cgpa": "7.09",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      203,
+      304,
+      101,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0042",
+    "name": "Student_42",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 106,
+    "cgpa": "8.14",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      304,
+      104,
+      202,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0043",
+    "name": "Student_43",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 106,
+    "cgpa": "6.88",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      305,
+      301,
+      201,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0044",
+    "name": "Student_44",
+    "department": "Artificial Intelligence",
+    "semester": 1,
+    "credits": 48,
+    "cgpa": "7.13",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      202,
+      203,
+      305,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0045",
+    "name": "Student_45",
+    "department": "Cyber Security",
+    "semester": 2,
+    "credits": 73,
+    "cgpa": "9.97",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      104,
+      201,
+      101,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0046",
+    "name": "Student_46",
+    "department": "Data Science",
+    "semester": 8,
+    "credits": 44,
+    "cgpa": "6.29",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      302,
+      102,
+      201,
+      205,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0047",
+    "name": "Student_47",
+    "department": "Artificial Intelligence",
+    "semester": 3,
+    "credits": 87,
+    "cgpa": "8.86",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      201,
+      203,
+      104,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0048",
+    "name": "Student_48",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 89,
+    "cgpa": "7.93",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      102,
+      103,
+      202,
+      301,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0049",
+    "name": "Student_49",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 85,
+    "cgpa": "6.90",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      302,
+      203,
+      102,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0050",
+    "name": "Student_50",
+    "department": "Information Technology",
+    "semester": 4,
+    "credits": 105,
+    "cgpa": "9.32",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      302,
+      305,
+      303,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0051",
+    "name": "Student_51",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 45,
+    "cgpa": "8.76",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      301,
+      101,
+      202,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0052",
+    "name": "Student_52",
+    "department": "Artificial Intelligence",
+    "semester": 3,
+    "credits": 50,
+    "cgpa": "6.98",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      204,
+      301,
+      101,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0053",
+    "name": "Student_53",
+    "department": "Data Science",
+    "semester": 5,
+    "credits": 63,
+    "cgpa": "9.48",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      302,
+      303,
+      305,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0054",
+    "name": "Student_54",
+    "department": "Data Science",
+    "semester": 7,
+    "credits": 63,
+    "cgpa": "9.98",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      101,
+      303,
+      304,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0055",
+    "name": "Student_55",
+    "department": "Computer Science",
+    "semester": 6,
+    "credits": 90,
+    "cgpa": "8.04",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      104,
+      202,
+      304,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0056",
+    "name": "Student_56",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 92,
+    "cgpa": "8.66",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      105,
+      103,
+      101,
+      202,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0057",
+    "name": "Student_57",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 110,
+    "cgpa": "7.59",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      301,
+      104,
+      202,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0058",
+    "name": "Student_58",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 63,
+    "cgpa": "8.00",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      204,
+      303,
+      205,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0059",
+    "name": "Student_59",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 66,
+    "cgpa": "6.59",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      203,
+      303,
+      202,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0060",
+    "name": "Student_60",
+    "department": "Computer Science",
+    "semester": 3,
+    "credits": 98,
+    "cgpa": "6.66",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      101,
+      102,
+      103,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0061",
+    "name": "Student_61",
+    "department": "Data Science",
+    "semester": 7,
+    "credits": 46,
+    "cgpa": "8.26",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      303,
+      305,
+      205,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0062",
+    "name": "Student_62",
+    "department": "Computer Science",
+    "semester": 1,
+    "credits": 92,
+    "cgpa": "6.21",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      201,
+      105,
+      301,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0063",
+    "name": "Student_63",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 82,
+    "cgpa": "8.14",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      301,
+      305,
+      303,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0064",
+    "name": "Student_64",
+    "department": "Data Science",
+    "semester": 8,
+    "credits": 99,
+    "cgpa": "6.82",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      101,
+      102,
+      201,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0065",
+    "name": "Student_65",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 114,
+    "cgpa": "7.11",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      105,
+      101,
+      302,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0066",
+    "name": "Student_66",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 74,
+    "cgpa": "7.74",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      204,
+      102,
+      205,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0067",
+    "name": "Student_67",
+    "department": "Computer Science",
+    "semester": 2,
+    "credits": 78,
+    "cgpa": "6.39",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      204,
+      104,
+      305,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0068",
+    "name": "Student_68",
+    "department": "Cyber Security",
+    "semester": 8,
+    "credits": 45,
+    "cgpa": "8.01",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      104,
+      301,
+      305,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0069",
+    "name": "Student_69",
+    "department": "Information Technology",
+    "semester": 6,
+    "credits": 93,
+    "cgpa": "8.98",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      304,
+      202,
+      102,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0070",
+    "name": "Student_70",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 107,
+    "cgpa": "8.83",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      205,
+      302,
+      301,
+      305,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0071",
+    "name": "Student_71",
+    "department": "Cyber Security",
+    "semester": 4,
+    "credits": 101,
+    "cgpa": "6.81",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      305,
+      202,
+      302,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0072",
+    "name": "Student_72",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 104,
+    "cgpa": "9.59",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      301,
+      304,
+      104,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0073",
+    "name": "Student_73",
+    "department": "Cyber Security",
+    "semester": 7,
+    "credits": 117,
+    "cgpa": "6.11",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      105,
+      103,
+      305,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0074",
+    "name": "Student_74",
+    "department": "Cyber Security",
+    "semester": 1,
+    "credits": 101,
+    "cgpa": "6.41",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      203,
+      301,
+      302,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0075",
+    "name": "Student_75",
+    "department": "Artificial Intelligence",
+    "semester": 1,
+    "credits": 97,
+    "cgpa": "7.00",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      102,
+      304,
+      201,
+      303,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0076",
+    "name": "Student_76",
+    "department": "Information Technology",
+    "semester": 6,
+    "credits": 84,
+    "cgpa": "9.88",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      305,
+      105,
+      201,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0077",
+    "name": "Student_77",
+    "department": "Information Technology",
+    "semester": 7,
+    "credits": 75,
+    "cgpa": "6.19",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      305,
+      103,
+      301,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0078",
+    "name": "Student_78",
+    "department": "Data Science",
+    "semester": 4,
+    "credits": 76,
+    "cgpa": "6.22",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      201,
+      305,
+      105,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0079",
+    "name": "Student_79",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 110,
+    "cgpa": "7.51",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      202,
+      102,
+      104,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0080",
+    "name": "Student_80",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 46,
+    "cgpa": "9.34",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      101,
+      203,
+      202,
+      205,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0081",
+    "name": "Student_81",
+    "department": "Cyber Security",
+    "semester": 3,
+    "credits": 61,
+    "cgpa": "7.32",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      202,
+      102,
+      303,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0082",
+    "name": "Student_82",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 88,
+    "cgpa": "7.65",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      201,
+      103,
+      303,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0083",
+    "name": "Student_83",
+    "department": "Computer Science",
+    "semester": 2,
+    "credits": 87,
+    "cgpa": "6.06",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      205,
+      105,
+      303,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0084",
+    "name": "Student_84",
+    "department": "Artificial Intelligence",
+    "semester": 3,
+    "credits": 74,
+    "cgpa": "6.70",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      205,
+      204,
+      303,
+      305,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0085",
+    "name": "Student_85",
+    "department": "Computer Science",
+    "semester": 2,
+    "credits": 60,
+    "cgpa": "6.65",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      304,
+      201,
+      205,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0086",
+    "name": "Student_86",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 66,
+    "cgpa": "7.68",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      305,
+      304,
+      203,
+      205,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0087",
+    "name": "Student_87",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 40,
+    "cgpa": "9.86",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      105,
+      205,
+      305,
+      304,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0088",
+    "name": "Student_88",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 71,
+    "cgpa": "7.37",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      304,
+      302,
+      104,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0089",
+    "name": "Student_89",
+    "department": "Artificial Intelligence",
+    "semester": 5,
+    "credits": 41,
+    "cgpa": "7.03",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      105,
+      101,
+      303,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0090",
+    "name": "Student_90",
+    "department": "Artificial Intelligence",
+    "semester": 1,
+    "credits": 67,
+    "cgpa": "9.67",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      204,
+      201,
+      301,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0091",
+    "name": "Student_91",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 110,
+    "cgpa": "7.23",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      205,
+      102,
+      201,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0092",
+    "name": "Student_92",
+    "department": "Cyber Security",
+    "semester": 3,
+    "credits": 68,
+    "cgpa": "7.80",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      304,
+      103,
+      105,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0093",
+    "name": "Student_93",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 45,
+    "cgpa": "8.18",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      101,
+      202,
+      204,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0094",
+    "name": "Student_94",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 106,
+    "cgpa": "7.02",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      304,
+      104,
+      105,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0095",
+    "name": "Student_95",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 81,
+    "cgpa": "9.84",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      101,
+      203,
+      202,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0096",
+    "name": "Student_96",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 80,
+    "cgpa": "7.00",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      302,
+      104,
+      105,
+      103,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0097",
+    "name": "Student_97",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 119,
+    "cgpa": "7.10",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      303,
+      304,
+      205,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0098",
+    "name": "Student_98",
+    "department": "Computer Science",
+    "semester": 5,
+    "credits": 86,
+    "cgpa": "9.79",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      104,
+      105,
+      204,
+      205,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0099",
+    "name": "Student_99",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 57,
+    "cgpa": "9.39",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      105,
+      101,
+      202,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0100",
+    "name": "Student_100",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 57,
+    "cgpa": "9.26",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      104,
+      305,
+      201,
+      204,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0101",
+    "name": "Student_101",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 88,
+    "cgpa": "8.10",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      101,
+      202,
+      105,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0102",
+    "name": "Student_102",
+    "department": "Information Technology",
+    "semester": 3,
+    "credits": 114,
+    "cgpa": "7.83",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      205,
+      203,
+      305,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0103",
+    "name": "Student_103",
+    "department": "Artificial Intelligence",
+    "semester": 8,
+    "credits": 88,
+    "cgpa": "9.58",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      102,
+      104,
+      303,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0104",
+    "name": "Student_104",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 97,
+    "cgpa": "8.46",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      104,
+      305,
+      205,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0105",
+    "name": "Student_105",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 77,
+    "cgpa": "9.72",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      202,
+      103,
+      305,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0106",
+    "name": "Student_106",
+    "department": "Cyber Security",
+    "semester": 1,
+    "credits": 66,
+    "cgpa": "8.29",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      104,
+      205,
+      105,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0107",
+    "name": "Student_107",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 45,
+    "cgpa": "6.16",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      302,
+      301,
+      202,
+      303,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0108",
+    "name": "Student_108",
+    "department": "Information Technology",
+    "semester": 3,
+    "credits": 78,
+    "cgpa": "6.14",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      304,
+      102,
+      303,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0109",
+    "name": "Student_109",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 62,
+    "cgpa": "6.75",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      202,
+      305,
+      301,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0110",
+    "name": "Student_110",
+    "department": "Information Technology",
+    "semester": 3,
+    "credits": 48,
+    "cgpa": "9.06",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      303,
+      201,
+      103,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0111",
+    "name": "Student_111",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 99,
+    "cgpa": "8.70",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      203,
+      103,
+      205,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0112",
+    "name": "Student_112",
+    "department": "Information Technology",
+    "semester": 6,
+    "credits": 83,
+    "cgpa": "9.77",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      305,
+      202,
+      201,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0113",
+    "name": "Student_113",
+    "department": "Cyber Security",
+    "semester": 7,
+    "credits": 45,
+    "cgpa": "7.88",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      304,
+      205,
+      103,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0114",
+    "name": "Student_114",
+    "department": "Computer Science",
+    "semester": 5,
+    "credits": 114,
+    "cgpa": "6.61",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      102,
+      203,
+      205,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0115",
+    "name": "Student_115",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 100,
+    "cgpa": "9.83",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      103,
+      301,
+      303,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0116",
+    "name": "Student_116",
+    "department": "Data Science",
+    "semester": 5,
+    "credits": 86,
+    "cgpa": "6.72",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      204,
+      305,
+      301,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0117",
+    "name": "Student_117",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 80,
+    "cgpa": "7.29",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      305,
+      202,
+      204,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0118",
+    "name": "Student_118",
+    "department": "Computer Science",
+    "semester": 1,
+    "credits": 109,
+    "cgpa": "9.43",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      304,
+      203,
+      201,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0119",
+    "name": "Student_119",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 46,
+    "cgpa": "6.70",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      103,
+      304,
+      202,
+      104,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0120",
+    "name": "Student_120",
+    "department": "Cyber Security",
+    "semester": 8,
+    "credits": 89,
+    "cgpa": "7.66",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      202,
+      105,
+      304,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0121",
+    "name": "Student_121",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 92,
+    "cgpa": "8.40",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      103,
+      102,
+      304,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0122",
+    "name": "Student_122",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 42,
+    "cgpa": "7.11",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      302,
+      202,
+      105,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0123",
+    "name": "Student_123",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 85,
+    "cgpa": "6.95",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      103,
+      104,
+      203,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0124",
+    "name": "Student_124",
+    "department": "Computer Science",
+    "semester": 1,
+    "credits": 69,
+    "cgpa": "7.61",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      303,
+      201,
+      304,
+      203,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0125",
+    "name": "Student_125",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 84,
+    "cgpa": "8.99",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      103,
+      205,
+      302,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0126",
+    "name": "Student_126",
+    "department": "Cyber Security",
+    "semester": 8,
+    "credits": 40,
+    "cgpa": "7.80",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      103,
+      303,
+      202,
+      205,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0127",
+    "name": "Student_127",
+    "department": "Information Technology",
+    "semester": 4,
+    "credits": 92,
+    "cgpa": "9.78",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      205,
+      304,
+      301,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0128",
+    "name": "Student_128",
+    "department": "Computer Science",
+    "semester": 5,
+    "credits": 98,
+    "cgpa": "7.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      105,
+      305,
+      205,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0129",
+    "name": "Student_129",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 74,
+    "cgpa": "8.07",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      201,
+      104,
+      205,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0130",
+    "name": "Student_130",
+    "department": "Computer Science",
+    "semester": 5,
+    "credits": 109,
+    "cgpa": "6.26",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      304,
+      205,
+      302,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0131",
+    "name": "Student_131",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 90,
+    "cgpa": "7.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      105,
+      205,
+      302,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0132",
+    "name": "Student_132",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 73,
+    "cgpa": "9.31",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      102,
+      202,
+      301,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0133",
+    "name": "Student_133",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 73,
+    "cgpa": "8.68",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      301,
+      203,
+      204,
+      101,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0134",
+    "name": "Student_134",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 57,
+    "cgpa": "9.48",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      102,
+      105,
+      205,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0135",
+    "name": "Student_135",
+    "department": "Artificial Intelligence",
+    "semester": 5,
+    "credits": 41,
+    "cgpa": "7.26",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      201,
+      101,
+      302,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0136",
+    "name": "Student_136",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 96,
+    "cgpa": "7.70",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      305,
+      301,
+      201,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0137",
+    "name": "Student_137",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 103,
+    "cgpa": "7.34",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      301,
+      203,
+      103,
+      101,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0138",
+    "name": "Student_138",
+    "department": "Data Science",
+    "semester": 4,
+    "credits": 119,
+    "cgpa": "8.08",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      301,
+      204,
+      201,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0139",
+    "name": "Student_139",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 88,
+    "cgpa": "7.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      305,
+      105,
+      103,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0140",
+    "name": "Student_140",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 77,
+    "cgpa": "7.26",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      202,
+      102,
+      303,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0141",
+    "name": "Student_141",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 104,
+    "cgpa": "6.16",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      202,
+      102,
+      304,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0142",
+    "name": "Student_142",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 93,
+    "cgpa": "6.25",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      305,
+      204,
+      304,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0143",
+    "name": "Student_143",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 105,
+    "cgpa": "7.60",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      201,
+      105,
+      302,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0144",
+    "name": "Student_144",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 77,
+    "cgpa": "8.20",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      303,
+      304,
+      103,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0145",
+    "name": "Student_145",
+    "department": "Artificial Intelligence",
+    "semester": 8,
+    "credits": 94,
+    "cgpa": "9.79",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      101,
+      301,
+      103,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0146",
+    "name": "Student_146",
+    "department": "Cyber Security",
+    "semester": 3,
+    "credits": 105,
+    "cgpa": "9.65",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      301,
+      105,
+      103,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0147",
+    "name": "Student_147",
+    "department": "Computer Science",
+    "semester": 6,
+    "credits": 110,
+    "cgpa": "7.80",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      305,
+      103,
+      201,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0148",
+    "name": "Student_148",
+    "department": "Cyber Security",
+    "semester": 1,
+    "credits": 64,
+    "cgpa": "7.91",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      102,
+      101,
+      301,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0149",
+    "name": "Student_149",
+    "department": "Information Technology",
+    "semester": 3,
+    "credits": 64,
+    "cgpa": "6.92",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      102,
+      203,
+      104,
+      303,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0150",
+    "name": "Student_150",
+    "department": "Computer Science",
+    "semester": 3,
+    "credits": 41,
+    "cgpa": "6.26",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      103,
+      304,
+      201,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0151",
+    "name": "Student_151",
+    "department": "Cyber Security",
+    "semester": 6,
+    "credits": 108,
+    "cgpa": "8.57",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      105,
+      101,
+      204,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0152",
+    "name": "Student_152",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 104,
+    "cgpa": "6.70",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      204,
+      301,
+      103,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0153",
+    "name": "Student_153",
+    "department": "Information Technology",
+    "semester": 7,
+    "credits": 57,
+    "cgpa": "9.99",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      101,
+      304,
+      105,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0154",
+    "name": "Student_154",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 95,
+    "cgpa": "6.89",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      205,
+      201,
+      204,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0155",
+    "name": "Student_155",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 96,
+    "cgpa": "8.32",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      204,
+      202,
+      203,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0156",
+    "name": "Student_156",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 43,
+    "cgpa": "6.32",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      203,
+      304,
+      202,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0157",
+    "name": "Student_157",
+    "department": "Information Technology",
+    "semester": 6,
+    "credits": 77,
+    "cgpa": "8.55",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      305,
+      104,
+      201,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0158",
+    "name": "Student_158",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 73,
+    "cgpa": "6.69",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      201,
+      304,
+      101,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0159",
+    "name": "Student_159",
+    "department": "Computer Science",
+    "semester": 1,
+    "credits": 68,
+    "cgpa": "9.60",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      305,
+      105,
+      101,
+      203,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0160",
+    "name": "Student_160",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 54,
+    "cgpa": "6.59",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      202,
+      104,
+      303,
+      304,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0161",
+    "name": "Student_161",
+    "department": "Data Science",
+    "semester": 4,
+    "credits": 52,
+    "cgpa": "8.24",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      105,
+      303,
+      302,
+      304,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0162",
+    "name": "Student_162",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 55,
+    "cgpa": "9.67",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      103,
+      101,
+      305,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0163",
+    "name": "Student_163",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 91,
+    "cgpa": "7.76",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      205,
+      101,
+      204,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0164",
+    "name": "Student_164",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 106,
+    "cgpa": "6.19",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      303,
+      301,
+      201,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0165",
+    "name": "Student_165",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 104,
+    "cgpa": "9.95",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      202,
+      201,
+      302,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0166",
+    "name": "Student_166",
+    "department": "Data Science",
+    "semester": 2,
+    "credits": 91,
+    "cgpa": "8.36",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      202,
+      205,
+      103,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0167",
+    "name": "Student_167",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 62,
+    "cgpa": "8.46",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      305,
+      303,
+      105,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0168",
+    "name": "Student_168",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 107,
+    "cgpa": "6.60",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      305,
+      301,
+      203,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0169",
+    "name": "Student_169",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 67,
+    "cgpa": "6.86",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      201,
+      105,
+      205,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0170",
+    "name": "Student_170",
+    "department": "Data Science",
+    "semester": 4,
+    "credits": 53,
+    "cgpa": "7.54",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      101,
+      303,
+      203,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0171",
+    "name": "Student_171",
+    "department": "Cyber Security",
+    "semester": 2,
+    "credits": 102,
+    "cgpa": "9.81",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      303,
+      203,
+      102,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0172",
+    "name": "Student_172",
+    "department": "Cyber Security",
+    "semester": 4,
+    "credits": 66,
+    "cgpa": "9.14",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      305,
+      101,
+      205,
+      102,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0173",
+    "name": "Student_173",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 63,
+    "cgpa": "9.33",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      303,
+      102,
+      201,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0174",
+    "name": "Student_174",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 53,
+    "cgpa": "9.46",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      205,
+      304,
+      103,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0175",
+    "name": "Student_175",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 107,
+    "cgpa": "7.64",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      202,
+      203,
+      304,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0176",
+    "name": "Student_176",
+    "department": "Data Science",
+    "semester": 4,
+    "credits": 76,
+    "cgpa": "7.43",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      304,
+      303,
+      202,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0177",
+    "name": "Student_177",
+    "department": "Artificial Intelligence",
+    "semester": 7,
+    "credits": 46,
+    "cgpa": "6.06",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      305,
+      303,
+      205,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0178",
+    "name": "Student_178",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 40,
+    "cgpa": "8.40",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      102,
+      203,
+      105,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0179",
+    "name": "Student_179",
+    "department": "Information Technology",
+    "semester": 2,
+    "credits": 99,
+    "cgpa": "9.64",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      205,
+      302,
+      201,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0180",
+    "name": "Student_180",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 62,
+    "cgpa": "6.39",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      304,
+      101,
+      201,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0181",
+    "name": "Student_181",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 102,
+    "cgpa": "9.27",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      103,
+      205,
+      203,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0182",
+    "name": "Student_182",
+    "department": "Data Science",
+    "semester": 7,
+    "credits": 88,
+    "cgpa": "7.89",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      204,
+      105,
+      205,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0183",
+    "name": "Student_183",
+    "department": "Information Technology",
+    "semester": 6,
+    "credits": 87,
+    "cgpa": "6.75",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      303,
+      101,
+      202,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0184",
+    "name": "Student_184",
+    "department": "Cyber Security",
+    "semester": 7,
+    "credits": 105,
+    "cgpa": "9.17",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      102,
+      305,
+      304,
+      101,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0185",
+    "name": "Student_185",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 116,
+    "cgpa": "8.11",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      204,
+      304,
+      305,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0186",
+    "name": "Student_186",
+    "department": "Cyber Security",
+    "semester": 8,
+    "credits": 113,
+    "cgpa": "7.28",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      105,
+      104,
+      202,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0187",
+    "name": "Student_187",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 103,
+    "cgpa": "9.73",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      205,
+      302,
+      204,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0188",
+    "name": "Student_188",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 98,
+    "cgpa": "9.45",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      305,
+      204,
+      101,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0189",
+    "name": "Student_189",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 67,
+    "cgpa": "6.42",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      205,
+      204,
+      201,
+      303,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0190",
+    "name": "Student_190",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 48,
+    "cgpa": "8.36",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      202,
+      301,
+      303,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0191",
+    "name": "Student_191",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 103,
+    "cgpa": "8.02",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      202,
+      203,
+      305,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0192",
+    "name": "Student_192",
+    "department": "Cyber Security",
+    "semester": 2,
+    "credits": 80,
+    "cgpa": "9.72",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      204,
+      105,
+      104,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0193",
+    "name": "Student_193",
+    "department": "Artificial Intelligence",
+    "semester": 1,
+    "credits": 61,
+    "cgpa": "7.36",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      204,
+      304,
+      101,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0194",
+    "name": "Student_194",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 67,
+    "cgpa": "7.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      303,
+      104,
+      302,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0195",
+    "name": "Student_195",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 42,
+    "cgpa": "8.96",
+    "degreeStatus": "Active",
+    "courseIds": [
+      305,
+      104,
+      304,
+      103,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0196",
+    "name": "Student_196",
+    "department": "Cyber Security",
+    "semester": 4,
+    "credits": 117,
+    "cgpa": "8.66",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      201,
+      103,
+      301,
+      102,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0197",
+    "name": "Student_197",
+    "department": "Data Science",
+    "semester": 8,
+    "credits": 59,
+    "cgpa": "8.91",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      103,
+      104,
+      303,
+      204,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0198",
+    "name": "Student_198",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 71,
+    "cgpa": "8.63",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      205,
+      201,
+      302,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0199",
+    "name": "Student_199",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 44,
+    "cgpa": "7.14",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      305,
+      104,
+      205,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0200",
+    "name": "Student_200",
+    "department": "Information Technology",
+    "semester": 4,
+    "credits": 73,
+    "cgpa": "6.35",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      305,
+      302,
+      203,
+      201,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0201",
+    "name": "Student_201",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 71,
+    "cgpa": "9.62",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      101,
+      202,
+      204,
+      103,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0202",
+    "name": "Student_202",
+    "department": "Artificial Intelligence",
+    "semester": 1,
+    "credits": 57,
+    "cgpa": "9.80",
+    "degreeStatus": "Active",
+    "courseIds": [
+      204,
+      301,
+      202,
+      105,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0203",
+    "name": "Student_203",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 52,
+    "cgpa": "9.60",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      304,
+      303,
+      103,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0204",
+    "name": "Student_204",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 75,
+    "cgpa": "7.92",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      104,
+      305,
+      101,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0205",
+    "name": "Student_205",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 75,
+    "cgpa": "7.89",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      303,
+      203,
+      302,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0206",
+    "name": "Student_206",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 91,
+    "cgpa": "6.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      102,
+      303,
+      305,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0207",
+    "name": "Student_207",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 43,
+    "cgpa": "8.34",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      203,
+      103,
+      304,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0208",
+    "name": "Student_208",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 105,
+    "cgpa": "6.74",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      303,
+      201,
+      203,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0209",
+    "name": "Student_209",
+    "department": "Data Science",
+    "semester": 8,
+    "credits": 46,
+    "cgpa": "7.29",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      205,
+      303,
+      305,
+      301,
+      103
+    ]
+  },
+  {
+    "studentId": "STU0210",
+    "name": "Student_210",
+    "department": "Computer Science",
+    "semester": 3,
+    "credits": 71,
+    "cgpa": "9.72",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      203,
+      205,
+      101,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0211",
+    "name": "Student_211",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 56,
+    "cgpa": "6.98",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      104,
+      302,
+      203,
+      201
+    ]
+  },
+  {
+    "studentId": "STU0212",
+    "name": "Student_212",
+    "department": "Cyber Security",
+    "semester": 8,
+    "credits": 59,
+    "cgpa": "7.45",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      103,
+      105,
+      201,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0213",
+    "name": "Student_213",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 79,
+    "cgpa": "6.47",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      201,
+      301,
+      104,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0214",
+    "name": "Student_214",
+    "department": "Computer Science",
+    "semester": 4,
+    "credits": 110,
+    "cgpa": "7.68",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      302,
+      204,
+      205,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0215",
+    "name": "Student_215",
+    "department": "Computer Science",
+    "semester": 6,
+    "credits": 110,
+    "cgpa": "7.63",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      304,
+      101,
+      204,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0216",
+    "name": "Student_216",
+    "department": "Computer Science",
+    "semester": 2,
+    "credits": 46,
+    "cgpa": "6.76",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      205,
+      203,
+      304,
+      103,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0217",
+    "name": "Student_217",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 85,
+    "cgpa": "8.95",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      102,
+      101,
+      201,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0218",
+    "name": "Student_218",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 84,
+    "cgpa": "8.15",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      101,
+      102,
+      305,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0219",
+    "name": "Student_219",
+    "department": "Data Science",
+    "semester": 6,
+    "credits": 104,
+    "cgpa": "7.58",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      303,
+      204,
+      103,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0220",
+    "name": "Student_220",
+    "department": "Artificial Intelligence",
+    "semester": 6,
+    "credits": 49,
+    "cgpa": "6.28",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      201,
+      203,
+      204,
+      104,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0221",
+    "name": "Student_221",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 88,
+    "cgpa": "8.82",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      105,
+      301,
+      204,
+      202
+    ]
+  },
+  {
+    "studentId": "STU0222",
+    "name": "Student_222",
+    "department": "Information Technology",
+    "semester": 8,
+    "credits": 115,
+    "cgpa": "7.27",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      105,
+      302,
+      305,
+      203
+    ]
+  },
+  {
+    "studentId": "STU0223",
+    "name": "Student_223",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 109,
+    "cgpa": "6.00",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      301,
+      303,
+      302,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0224",
+    "name": "Student_224",
+    "department": "Data Science",
+    "semester": 7,
+    "credits": 50,
+    "cgpa": "7.83",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      104,
+      301,
+      303,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0225",
+    "name": "Student_225",
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "credits": 100,
+    "cgpa": "9.16",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      102,
+      103,
+      305,
+      202,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0226",
+    "name": "Student_226",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 115,
+    "cgpa": "9.01",
+    "degreeStatus": "Active",
+    "courseIds": [
+      205,
+      102,
+      105,
+      302,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0227",
+    "name": "Student_227",
+    "department": "Computer Science",
+    "semester": 7,
+    "credits": 66,
+    "cgpa": "7.01",
+    "degreeStatus": "Active",
+    "courseIds": [
+      104,
+      201,
+      304,
+      302,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0228",
+    "name": "Student_228",
+    "department": "Computer Science",
+    "semester": 5,
+    "credits": 96,
+    "cgpa": "7.17",
+    "degreeStatus": "Active",
+    "courseIds": [
+      202,
+      305,
+      201,
+      302,
+      101
+    ]
+  },
+  {
+    "studentId": "STU0229",
+    "name": "Student_229",
+    "department": "Artificial Intelligence",
+    "semester": 4,
+    "credits": 96,
+    "cgpa": "8.39",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      202,
+      105,
+      205,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0230",
+    "name": "Student_230",
+    "department": "Data Science",
+    "semester": 8,
+    "credits": 62,
+    "cgpa": "8.23",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      103,
+      203,
+      101,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0231",
+    "name": "Student_231",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 41,
+    "cgpa": "9.16",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      101,
+      303,
+      102,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0232",
+    "name": "Student_232",
+    "department": "Cyber Security",
+    "semester": 7,
+    "credits": 84,
+    "cgpa": "6.29",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      202,
+      102,
+      201,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0233",
+    "name": "Student_233",
+    "department": "Data Science",
+    "semester": 1,
+    "credits": 78,
+    "cgpa": "7.46",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      201,
+      104,
+      205,
+      102
+    ]
+  },
+  {
+    "studentId": "STU0234",
+    "name": "Student_234",
+    "department": "Artificial Intelligence",
+    "semester": 5,
+    "credits": 71,
+    "cgpa": "7.12",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      203,
+      302,
+      202,
+      103,
+      204
+    ]
+  },
+  {
+    "studentId": "STU0235",
+    "name": "Student_235",
+    "department": "Information Technology",
+    "semester": 4,
+    "credits": 102,
+    "cgpa": "7.43",
+    "degreeStatus": "Active",
+    "courseIds": [
+      301,
+      202,
+      201,
+      103,
+      105
+    ]
+  },
+  {
+    "studentId": "STU0236",
+    "name": "Student_236",
+    "department": "Cyber Security",
+    "semester": 7,
+    "credits": 106,
+    "cgpa": "6.60",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      204,
+      105,
+      201,
+      301,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0237",
+    "name": "Student_237",
+    "department": "Cyber Security",
+    "semester": 4,
+    "credits": 114,
+    "cgpa": "9.79",
+    "degreeStatus": "Active",
+    "courseIds": [
+      203,
+      103,
+      305,
+      101,
+      304
+    ]
+  },
+  {
+    "studentId": "STU0238",
+    "name": "Student_238",
+    "department": "Information Technology",
+    "semester": 1,
+    "credits": 76,
+    "cgpa": "6.84",
+    "degreeStatus": "Active",
+    "courseIds": [
+      302,
+      205,
+      303,
+      202,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0239",
+    "name": "Student_239",
+    "department": "Data Science",
+    "semester": 8,
+    "credits": 62,
+    "cgpa": "9.14",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      202,
+      105,
+      201,
+      203,
+      305
+    ]
+  },
+  {
+    "studentId": "STU0240",
+    "name": "Student_240",
+    "department": "Cyber Security",
+    "semester": 5,
+    "credits": 102,
+    "cgpa": "8.51",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      105,
+      304,
+      201,
+      301,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0241",
+    "name": "Student_241",
+    "department": "Data Science",
+    "semester": 7,
+    "credits": 111,
+    "cgpa": "6.05",
+    "degreeStatus": "Active",
+    "courseIds": [
+      105,
+      101,
+      305,
+      304,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0242",
+    "name": "Student_242",
+    "department": "Computer Science",
+    "semester": 2,
+    "credits": 70,
+    "cgpa": "6.36",
+    "degreeStatus": "Active",
+    "courseIds": [
+      103,
+      202,
+      204,
+      303,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0243",
+    "name": "Student_243",
+    "department": "Data Science",
+    "semester": 3,
+    "credits": 111,
+    "cgpa": "7.32",
+    "degreeStatus": "Active",
+    "courseIds": [
+      304,
+      201,
+      202,
+      103,
+      302
+    ]
+  },
+  {
+    "studentId": "STU0244",
+    "name": "Student_244",
+    "department": "Cyber Security",
+    "semester": 1,
+    "credits": 51,
+    "cgpa": "9.80",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      303,
+      204,
+      304,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0245",
+    "name": "Student_245",
+    "department": "Artificial Intelligence",
+    "semester": 5,
+    "credits": 75,
+    "cgpa": "6.33",
+    "degreeStatus": "Active",
+    "courseIds": [
+      201,
+      102,
+      305,
+      105,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0246",
+    "name": "Student_246",
+    "department": "Information Technology",
+    "semester": 5,
+    "credits": 74,
+    "cgpa": "9.35",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      303,
+      103,
+      105,
+      205
+    ]
+  },
+  {
+    "studentId": "STU0247",
+    "name": "Student_247",
+    "department": "Computer Science",
+    "semester": 6,
+    "credits": 76,
+    "cgpa": "8.31",
+    "degreeStatus": "Active",
+    "courseIds": [
+      101,
+      103,
+      301,
+      304,
+      104
+    ]
+  },
+  {
+    "studentId": "STU0248",
+    "name": "Student_248",
+    "department": "Data Science",
+    "semester": 2,
+    "credits": 112,
+    "cgpa": "8.90",
+    "degreeStatus": "Active",
+    "courseIds": [
+      102,
+      203,
+      304,
+      301,
+      303
+    ]
+  },
+  {
+    "studentId": "STU0249",
+    "name": "Student_249",
+    "department": "Computer Science",
+    "semester": 8,
+    "credits": 67,
+    "cgpa": "9.86",
+    "degreeStatus": "Graduated",
+    "courseIds": [
+      101,
+      105,
+      102,
+      202,
+      301
+    ]
+  },
+  {
+    "studentId": "STU0250",
+    "name": "Student_250",
+    "department": "Computer Science",
+    "semester": 1,
+    "credits": 118,
+    "cgpa": "6.46",
+    "degreeStatus": "Active",
+    "courseIds": [
+      303,
+      205,
+      305,
+      301,
+      203
+    ]
+  }
+]
